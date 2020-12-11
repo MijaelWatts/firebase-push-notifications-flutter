@@ -1,5 +1,5 @@
-name: firebase_push_notif_flutter
-description:   Exploration regarding push notifications in flutter
+name: firebase_push_app
+description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -23,6 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_messaging: ^7.0.3
 
 
   # The following adds the Cupertino Icons font to your application.
