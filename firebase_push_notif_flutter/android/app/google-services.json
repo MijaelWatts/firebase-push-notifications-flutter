@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598021315569",
+    "project_id": "fir-fluttermessaging-805bd",
+    "storage_bucket": "fir-fluttermessaging-805bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598021315569:android:1f581fd7745d90c5df8250",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notif_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598021315569-b9kc0ge7hoa5j3t7b5g5pi6lv9dtbn0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtIK90LjVbO8PWxYwRf6AJ6CDJWJtHp3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598021315569-b9kc0ge7hoa5j3t7b5g5pi6lv9dtbn0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
